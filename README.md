@@ -1,5 +1,5 @@
 
-<h4 align="center"> Dirty strace</h4>
+# Dirty strace
 
 A simple script which monitors system calls.
 
